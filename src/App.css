@@ -19,16 +19,16 @@ section:last-child {
 }
 
 .title {
-  background-color: #FFA5DB;
+  /* background-color: #FFA5DB; */
   flex: 0;
   padding: 50px;
 }
 
 .ingredients {
-  background-color: #FFE0A5;
+  /* background-color: #FFE0A5; */
   flex-shrink: 1;
   flex-grow: 0;
-  padding: 10px 15px;
+  padding: 25px 30px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -60,6 +60,12 @@ section:last-child {
   justify-content: space-between;
 }
 
+@media only screen and (min-width: 768px) {
+  .step-header.step-header {
+    cursor: pointer;
+  }
+}
+
 .step-header .toggler {
   margin-left: 20px;
   width: 30px;
@@ -70,7 +76,15 @@ section:last-child {
   content: '+';
 }
 
+.step-header .toggler {
+  display: none;
+}
+
 @media only screen and (min-width: 768px) {
+  .step-header .toggler {
+    display: block;
+  }
+
   .step-header .toggler.hidden::before {
     content: '';
   }
@@ -81,29 +95,30 @@ section:last-child {
 }
 
 .step-1 {
-  background-color: #D7FFA5;
+  /* background-color: #D7FFA5; */
 }
 
 .step-2 {
-  background-color: #A5FAFF;
+  /* background-color: #A5FAFF; */
 }
 
 .step-3 {
-  background-color: #A5AEFF;
+  /* background-color: #A5AEFF; */
 }
 
 .step-4 {
-  background-color: #FDFFA5;
+  /* background-color: #FDFFA5; */
 }
 
 .step-5 {
-  background-color: #A5FFD4;
+  /* background-color: #A5FFD4; */
 }
 
 .banner {
-  background-color: #FFFFFF;
-  height: 40px;
+  /* background-color: #FFFFFF; */
+  /* height: 40px; */
   width: 100%;
+  padding: 10px;
 }
 
 @media only screen and (max-width: 767px) {
