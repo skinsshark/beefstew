@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/beefstew/static/css/main.63fb63d5.chunk.css",
+    "main.js": "/beefstew/static/js/main.f70c31ba.chunk.js",
+    "main.js.map": "/beefstew/static/js/main.f70c31ba.chunk.js.map",
+    "runtime-main.js": "/beefstew/static/js/runtime-main.8f25da6b.js",
+    "runtime-main.js.map": "/beefstew/static/js/runtime-main.8f25da6b.js.map",
+    "static/js/2.4438f843.chunk.js": "/beefstew/static/js/2.4438f843.chunk.js",
+    "static/js/2.4438f843.chunk.js.map": "/beefstew/static/js/2.4438f843.chunk.js.map",
+    "static/js/3.8d1fadf5.chunk.js": "/beefstew/static/js/3.8d1fadf5.chunk.js",
+    "static/js/3.8d1fadf5.chunk.js.map": "/beefstew/static/js/3.8d1fadf5.chunk.js.map",
+    "index.html": "/beefstew/index.html",
+    "static/css/main.63fb63d5.chunk.css.map": "/beefstew/static/css/main.63fb63d5.chunk.css.map",
+    "static/js/2.4438f843.chunk.js.LICENSE.txt": "/beefstew/static/js/2.4438f843.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f25da6b.js",
+    "static/js/2.4438f843.chunk.js",
+    "static/css/main.63fb63d5.chunk.css",
+    "static/js/main.f70c31ba.chunk.js"
+  ]
+}
