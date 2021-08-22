@@ -34,6 +34,8 @@ section:last-child {
   flex-shrink: 1;
   flex-grow: 0;
   padding: 25px 30px;
+  display: flex;
+  flex-direction: column;
 }
 
 @media only screen and (max-width: 767px) {
@@ -127,6 +129,26 @@ section:last-child {
 
 @media only screen and (max-width: 767px) {
   .banner {
+    display: none;
+  }
+}
+
+.previewImageWrapper {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-grow: 1;
+}
+
+.previewImage {
+  width: 80%;
+  max-width: 30vw;
+  z-index: -1;
+}
+
+@media only screen and (max-width: 767px) {
+  .previewImageWrapper,
+  .previewImage {
     display: none;
   }
 }
