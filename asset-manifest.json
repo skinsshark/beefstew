@@ -1,22 +1,32 @@
 {
   "files": {
-    "main.css": "/beefstew/static/css/main.a11eeac5.chunk.css",
-    "main.js": "/beefstew/static/js/main.a3184aba.chunk.js",
-    "main.js.map": "/beefstew/static/js/main.a3184aba.chunk.js.map",
-    "runtime-main.js": "/beefstew/static/js/runtime-main.cf494ecd.js",
-    "runtime-main.js.map": "/beefstew/static/js/runtime-main.cf494ecd.js.map",
-    "static/js/2.7057d851.chunk.js": "/beefstew/static/js/2.7057d851.chunk.js",
-    "static/js/2.7057d851.chunk.js.map": "/beefstew/static/js/2.7057d851.chunk.js.map",
-    "static/js/3.000d16f7.chunk.js": "/beefstew/static/js/3.000d16f7.chunk.js",
-    "static/js/3.000d16f7.chunk.js.map": "/beefstew/static/js/3.000d16f7.chunk.js.map",
+    "main.css": "/beefstew/static/css/main.c5687d30.chunk.css",
+    "main.js": "/beefstew/static/js/main.d9810d0d.chunk.js",
+    "main.js.map": "/beefstew/static/js/main.d9810d0d.chunk.js.map",
+    "runtime-main.js": "/beefstew/static/js/runtime-main.75641470.js",
+    "runtime-main.js.map": "/beefstew/static/js/runtime-main.75641470.js.map",
+    "static/js/2.73f24efa.chunk.js": "/beefstew/static/js/2.73f24efa.chunk.js",
+    "static/js/2.73f24efa.chunk.js.map": "/beefstew/static/js/2.73f24efa.chunk.js.map",
+    "static/js/3.3f241af1.chunk.js": "/beefstew/static/js/3.3f241af1.chunk.js",
+    "static/js/3.3f241af1.chunk.js.map": "/beefstew/static/js/3.3f241af1.chunk.js.map",
     "index.html": "/beefstew/index.html",
-    "static/css/main.a11eeac5.chunk.css.map": "/beefstew/static/css/main.a11eeac5.chunk.css.map",
-    "static/js/2.7057d851.chunk.js.LICENSE.txt": "/beefstew/static/js/2.7057d851.chunk.js.LICENSE.txt"
+    "static/css/main.c5687d30.chunk.css.map": "/beefstew/static/css/main.c5687d30.chunk.css.map",
+    "static/js/2.73f24efa.chunk.js.LICENSE.txt": "/beefstew/static/js/2.73f24efa.chunk.js.LICENSE.txt",
+    "static/media/beef-shank.png": "/beefstew/static/media/beef-shank.0983e6c6.png",
+    "static/media/cooking-wine.png": "/beefstew/static/media/cooking-wine.e03673bd.png",
+    "static/media/daikon.png": "/beefstew/static/media/daikon.c20afa0b.png",
+    "static/media/dark-soy-sauce.png": "/beefstew/static/media/dark-soy-sauce.f4768ddd.png",
+    "static/media/ginger.png": "/beefstew/static/media/ginger.01030510.png",
+    "static/media/light-soy-sauce.png": "/beefstew/static/media/light-soy-sauce.0b2cfe58.png",
+    "static/media/oyster-sauce.png": "/beefstew/static/media/oyster-sauce.1784fc11.png",
+    "static/media/peppercorn.png": "/beefstew/static/media/peppercorn.df1ab9b7.png",
+    "static/media/rock-sugar.png": "/beefstew/static/media/rock-sugar.57b29229.png",
+    "static/media/scallions.png": "/beefstew/static/media/scallions.5233869b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cf494ecd.js",
-    "static/js/2.7057d851.chunk.js",
-    "static/css/main.a11eeac5.chunk.css",
-    "static/js/main.a3184aba.chunk.js"
+    "static/js/runtime-main.75641470.js",
+    "static/js/2.73f24efa.chunk.js",
+    "static/css/main.c5687d30.chunk.css",
+    "static/js/main.d9810d0d.chunk.js"
   ]
 }
