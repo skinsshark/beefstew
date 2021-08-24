@@ -7,51 +7,54 @@ const STEP = {
     title: 'Prepare the meat',
     instructions: [
       'Cut the meat into 1-inch cubes',
-      'Soak them in a pot of cold water for around 30 minutes',
-      'Drain water but leave meat in pot'
+      'Soak them in a pot of cold water for around 20 minutes',
+      'Drain water but leave the meat in the pot'
     ]
   },
   2: {
-    title: 'Cook meat',
+    title: 'Cook the meat',
     instructions: [
-      'Fill pot with enough cold water to submerge the meat',
-      'Place on high heat with lid off',
-      'Wait until water comes to a boil and dirty meat foam forms. Give it a minute more',
-      'Pour contents into a colander and rinse with WARM water'
+      'Fill the pot with enough cold water to submerge the meat',
+      'Place on high heat with lid off (there\'s only meat and water right now)',
+      'Wait until water comes to a boil and all the dirty meat foam forms',
+      'Pour out into a colander and rinse with WARM water'
     ]
   },
   3: {
-    title: 'Add ingredients',
+    title: 'Add more ingredients',
     instructions: [
-      'do this',
-      'then that'
+      'Grab the pot you want the final stew to be in, and fill with a similar amount of cold water as the last step',
+      'Bring the water to boil (there\'s only water in the pot right now)',
+      'Once the water has boiled, put the rest of the ingredients EXCEPT for the daikon in. Use the dark soy sauce to control the color of the meat'
     ]
   },
   4: {
-    title: 'Simmer',
+    title: 'Simmer everything',
     instructions: [
-      'do this',
-      'then that'
+      'Bring the pot to a boil again and then turn down the heat and simmer for at least 1 hour (lid on) or until the meat is tender',
+      'About 15 minutes before serving, put the radish in. Peel it, throw out the ends and cut into shapes of your choice, thickness of your thumb',
+      'Simmer until tender'
     ]
   },
   5: {
-    title: 'Serve',
+    title: 'Serve it for days',
     instructions: [
-      'do this',
-      'then that'
+      'Remove cheesecloth pouch, cinnamon stick and ginger slices. Add salt if needed',
+      'This will last you at least a week'
     ]
   },
 }
 
 const FILE_NAME = {
   B: 'beef-stew',
-  S: 'beef-shank',
+  H: 'beef-shank',
   I: 'daikon',
   A: 'star-anise',
+  C: 'cinnamon',
   R: 'rock-sugar',
   P: 'peppercorn',
   G: 'ginger',
-  C: 'scallions',
+  S: 'scallions',
   W: 'cooking-wine',
   O: 'oyster-sauce',
   D: 'dark-soy-sauce',
@@ -98,13 +101,12 @@ function App() {
             <h2><ShowImage>B</ShowImage>eef Stew with Daikon</h2>
             <h3>Ingredients List—10 servings</h3>
             <ul>
-              <li>1 lb beef <ShowImage>s</ShowImage>hank</li>
+              <li>1 lb beef s<ShowImage>h</ShowImage>ank</li>
               <li>1 da<ShowImage>i</ShowImage>kon</li>
-              <li>1 star <ShowImage>a</ShowImage>nise</li>
               <li>2 <ShowImage>r</ShowImage>ock sugar pieces</li>
-              <li>8 sichuan <ShowImage>p</ShowImage>eppercorns</li>
+              <li>8 sichuan <ShowImage>p</ShowImage>eppercorns and 1 star <ShowImage>a</ShowImage>nise in a cheesecloth pouch</li>
               <li>3 slices of <ShowImage>g</ShowImage>inger</li>
-              <li>3 s<ShowImage>c</ShowImage>allions (the green parts)</li>
+              <li>3 <ShowImage>s</ShowImage>callions (the green parts)</li>
               <li>1/2 tbsp cooking <ShowImage>w</ShowImage>ine</li>
               <li>2 tbsp <ShowImage>o</ShowImage>yster sauce</li>
               <li>1 tbsp <ShowImage>d</ShowImage>ark soy sauce</li>
